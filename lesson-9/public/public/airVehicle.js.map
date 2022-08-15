@@ -1,0 +1,1 @@
+{"version":3,"file":"airVehicle.js","sourceRoot":"","sources":["../../src/airVehicle.ts"],"names":[],"mappings":"AACA,OAAO,OAAyB,MAAM,cAAc,CAAC;AAMrD,MAAM,UAAW,SAAQ,OAAO;IACpB,WAAW,CAAS;IAE5B,YAAY,EAAE,WAAW,EAAc,EAAE,YAA0B;QAC/D,KAAK,CAAC,YAAY,CAAC,CAAC;QACpB,IAAI,CAAC,WAAW,GAAG,WAAW,CAAC;IACnC,CAAC;CACJ;AAED,eAAe,UAAU,CAAC"}

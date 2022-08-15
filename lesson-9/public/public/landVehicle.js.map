@@ -1,0 +1,1 @@
+{"version":3,"file":"landVehicle.js","sourceRoot":"","sources":["../../src/landVehicle.ts"],"names":[],"mappings":"AACA,OAAO,OAAyB,MAAM,cAAc,CAAC;AAMrD,MAAM,WAAY,SAAQ,OAAO;IACrB,KAAK,CAAW;IAExB,YAAY,EAAE,KAAK,EAAoB,EAAE,YAA0B;QAC/D,KAAK,CAAC,YAAY,CAAC,CAAC;QACpB,IAAI,CAAC,KAAK,GAAG,KAAK,CAAC;IACvB,CAAC;CACJ;AAED,eAAe,WAAW,CAAC"}

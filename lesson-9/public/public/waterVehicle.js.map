@@ -1,0 +1,1 @@
+{"version":3,"file":"waterVehicle.js","sourceRoot":"","sources":["../../src/waterVehicle.ts"],"names":[],"mappings":"AACA,OAAO,OAAyB,MAAM,cAAc,CAAC;AAMrD,MAAM,YAAa,SAAQ,OAAO;IACtB,QAAQ,CAAS;IAEzB,YAAY,YAA0B,EAAE,EAAE,QAAQ,EAAqB;QACnE,KAAK,CAAC,YAAY,CAAC,CAAC;QACpB,IAAI,CAAC,QAAQ,GAAG,QAAQ,CAAC;IAC7B,CAAC;CACJ;AAED,eAAe,YAAY,CAAC"}
