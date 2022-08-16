@@ -19,11 +19,11 @@ const newVehicles: (AirVehicle | LandVehicle | WaterVehicle)[] = [
         year: 2007,
     }),
     new WaterVehicle({
+        maxDepth: 5000
+    }, {
         brand: 'skuba',
         model: 'diver',
         year: 1998,
-    }, {
-        maxDepth: 3000,
     }),
 
 ];

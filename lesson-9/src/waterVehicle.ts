@@ -8,7 +8,7 @@ export type WaterVehicleProps = {
 class WaterVehicle extends Vehicle {
     private maxDepth: number;
 
-    constructor(vehicleProps: VehicleProps, { maxDepth }: WaterVehicleProps) {
+    constructor( { maxDepth }: WaterVehicleProps,vehicleProps: VehicleProps) {
         super(vehicleProps);
         this.maxDepth = maxDepth;
     }
